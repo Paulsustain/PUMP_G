@@ -2,7 +2,7 @@
 
 GEN Smart system is an electronic smart pump management system with cloud interface. The system handles pump authorization, configuration and logging.
 
-
+COMPONENTS OF THE SMART PUMP
 
 ![k1](https://github.com/Paulsustain/PUMP_G/assets/90159980/b8c64c6a-0d0a-40d8-9741-4ba45194d2f4)
 
