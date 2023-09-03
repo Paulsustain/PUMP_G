@@ -1,0 +1,5 @@
+2021-11-18 09:58:02,995 — __main__ — DEBUG -get_remote_price — **got into remote_price**
+2021-11-18 09:58:03,361 — __main__ — DEBUG -get_remote_price — **got into remote_price**
+2021-11-18 09:58:05,279 — __main__ — DEBUG -get_remote_price — remote price_details is: None
+2021-11-18 09:58:05,472 — __main__ — DEBUG -get_remote_price — remote price_details is: None
+2021-11-18 09:58:05,482 — services — DEBUG -get_due_unused_scheduled_price — due scheduled price exist: []

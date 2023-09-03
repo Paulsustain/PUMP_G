@@ -1,0 +1,3 @@
+2021-07-12 08:22:42,848 — services — DEBUG -connect_db — <sqlite3.Connection object at 0x75d7b2c8>
+2021-07-12 08:22:42,850 — services — DEBUG -connect_db — database connection successful
+2021-07-12 08:22:42,857 — services — DEBUG -get_due_unused_scheduled_price — due scheduled price exist: []

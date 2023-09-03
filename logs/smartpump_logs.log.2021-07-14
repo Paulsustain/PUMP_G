@@ -1,0 +1,12 @@
+2021-07-15 08:50:01,190 — __main__ — DEBUG -get_remote_price — **got into remote_price**
+2021-07-15 08:50:02,942 — services — DEBUG -connect_db — <sqlite3.Connection object at 0x756fcd68>
+2021-07-15 08:50:02,943 — services — DEBUG -connect_db — database connection successful
+2021-07-15 08:50:02,949 — services — DEBUG -get_unuploaded_transactions — unuploaded transactions exists and are: [(142, 'b8:27:eb:fb:31:fc', 2, None, None, None, None, '2021-07-14 19:21:06', '2021-07-14 19:21:21', 11660.0, 1000.0, 11660.0, '2021-07-14 19:21:21', 0)]
+2021-07-15 08:50:05,238 — __main__ — DEBUG -get_remote_price — remote price_details is: None
+2021-07-15 08:50:07,686 — services — DEBUG -connect_db — <sqlite3.Connection object at 0x756fcd68>
+2021-07-15 08:50:07,687 — services — DEBUG -connect_db — database connection successful
+2021-07-15 08:50:07,705 — services — DEBUG -update_uploaded_transactions — uploaded data updated successfully
+2021-07-15 08:50:07,711 — services — DEBUG -connect_db — <sqlite3.Connection object at 0x756fcd68>
+2021-07-15 08:50:07,712 — services — DEBUG -connect_db — database connection successful
+2021-07-15 08:50:07,716 — services — DEBUG -connect_db — <sqlite3.Connection object at 0x756fcd68>
+2021-07-15 08:50:07,717 — services — DEBUG -connect_db — database connection successful

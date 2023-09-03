@@ -1,0 +1,158 @@
+2021-11-24 18:28:11,698 — state_helper — DEBUG -parse_status — *** Nozzle 1 lifted up***
+2021-11-24 18:28:11,872 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-24 18:28:17,154 — state_helper — DEBUG -parse_status — ***Transaction ended on Nozzle  1***
+2021-11-24 18:28:17,302 — state_helper — DEBUG -end_transaction_details — start totalizer is: 2661398.0 while current totalizer is: 2661405.0 at 2021-11-24 18:28:17
+2021-11-24 18:28:17,445 — gvr_frontier — DEBUG -get_transaction_details — transaction details is: nozzle: 1 money: 70.0 volume: 70.0 ppu: 1000.0 read_at: 2021-11-24 18:28:17
+2021-11-24 18:28:17,501 — services — DEBUG -set_end_transaction_details — transaction end details inserted successfully
+2021-11-24 18:54:32,608 — state_helper — DEBUG -parse_status — *** Nozzle 1 lifted up***
+2021-11-24 18:54:32,786 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-24 18:54:41,032 — state_helper — DEBUG -parse_status — ***Transaction ended on Nozzle  1***
+2021-11-24 18:54:41,179 — state_helper — DEBUG -end_transaction_details — start totalizer is: 2661405.0 while current totalizer is: 2661731.0 at 2021-11-24 18:54:41
+2021-11-24 18:54:41,322 — gvr_frontier — DEBUG -get_transaction_details — transaction details is: nozzle: 1 money: 3260.0 volume: 3260.0 ppu: 1000.0 read_at: 2021-11-24 18:54:41
+2021-11-24 18:54:41,360 — services — DEBUG -set_end_transaction_details — transaction end details inserted successfully
+2021-11-24 18:57:52,081 — state_helper — DEBUG -parse_status — *** Nozzle 1 lifted up***
+2021-11-24 18:57:52,256 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-24 18:57:58,574 — state_helper — DEBUG -parse_status — ***Transaction ended on Nozzle  1***
+2021-11-24 18:57:58,721 — state_helper — DEBUG -end_transaction_details — start totalizer is: 2661731.0 while current totalizer is: 2661756.0 at 2021-11-24 18:57:58
+2021-11-24 18:57:58,862 — gvr_frontier — DEBUG -get_transaction_details — transaction details is: nozzle: 1 money: 250.0 volume: 250.0 ppu: 1000.0 read_at: 2021-11-24 18:57:58
+2021-11-24 18:57:58,922 — services — DEBUG -set_end_transaction_details — transaction end details inserted successfully
+2021-11-24 18:59:27,759 — state_helper — DEBUG -parse_status — *** Nozzle 1 lifted up***
+2021-11-24 18:59:28,351 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-24 18:59:33,357 — state_helper — DEBUG -parse_status — ***Transaction ended on Nozzle  1***
+2021-11-24 18:59:33,504 — state_helper — DEBUG -end_transaction_details — start totalizer is: 2661756.0 while current totalizer is: 2661763.0 at 2021-11-24 18:59:33
+2021-11-24 18:59:33,647 — gvr_frontier — DEBUG -get_transaction_details — transaction details is: nozzle: 1 money: 84.0 volume: 70.0 ppu: 1200.0 read_at: 2021-11-24 18:59:33
+2021-11-24 18:59:33,676 — services — DEBUG -set_end_transaction_details — transaction end details inserted successfully
+2021-11-24 19:00:47,563 — state_helper — DEBUG -parse_status — *** Nozzle 1 lifted up***
+2021-11-24 19:00:48,145 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-24 19:00:49,535 — state_helper — DEBUG -parse_status — *** Nozzle 1 lifted up***
+2021-11-24 19:00:50,112 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-24 19:00:51,504 — state_helper — DEBUG -parse_status — *** Nozzle 1 lifted up***
+2021-11-24 19:00:52,092 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-24 19:00:53,476 — state_helper — DEBUG -parse_status — *** Nozzle 1 lifted up***
+2021-11-24 19:00:54,054 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-24 19:01:07,125 — state_helper — DEBUG -parse_status — ***Transaction ended on Nozzle  1***
+2021-11-24 19:01:07,272 — state_helper — DEBUG -end_transaction_details — start totalizer is: 2661763.0 while current totalizer is: 2662882.0 at 2021-11-24 19:01:07
+2021-11-24 19:01:07,415 — gvr_frontier — DEBUG -get_transaction_details — transaction details is: nozzle: 1 money: 11750.0 volume: 11190.0 ppu: 1050.0 read_at: 2021-11-24 19:01:07
+2021-11-24 19:01:07,450 — services — DEBUG -set_end_transaction_details — transaction end details inserted successfully
+2021-11-24 19:02:41,372 — state_helper — DEBUG -parse_status — *** Nozzle 1 lifted up***
+2021-11-24 19:02:41,967 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-24 19:02:50,003 — state_helper — DEBUG -parse_status — ***Transaction ended on Nozzle  1***
+2021-11-24 19:02:50,152 — state_helper — DEBUG -end_transaction_details — start totalizer is: 2662882.0 while current totalizer is: 2663205.0 at 2021-11-24 19:02:50
+2021-11-24 19:02:50,295 — gvr_frontier — DEBUG -get_transaction_details — transaction details is: nozzle: 1 money: 3392.0 volume: 3230.0 ppu: 1050.0 read_at: 2021-11-24 19:02:50
+2021-11-24 19:02:50,341 — services — DEBUG -set_end_transaction_details — transaction end details inserted successfully
+2021-11-24 19:02:51,964 — state_helper — DEBUG -parse_status — *** Nozzle 1 lifted up***
+2021-11-24 19:02:52,544 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-24 19:02:58,642 — state_helper — DEBUG -parse_status — ***Transaction ended on Nozzle  1***
+2021-11-24 19:02:58,790 — state_helper — DEBUG -end_transaction_details — start totalizer is: 2663205.0 while current totalizer is: 2663213.0 at 2021-11-24 19:02:58
+2021-11-24 19:02:58,934 — gvr_frontier — DEBUG -get_transaction_details — transaction details is: nozzle: 1 money: 84.0 volume: 80.0 ppu: 1050.0 read_at: 2021-11-24 19:02:58
+2021-11-24 19:02:59,001 — services — DEBUG -set_end_transaction_details — transaction end details inserted successfully
+2021-11-24 19:03:40,172 — state_helper — DEBUG -parse_status — *** Nozzle 1 lifted up***
+2021-11-24 19:03:40,752 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-24 19:03:42,145 — state_helper — DEBUG -parse_status — *** Nozzle 1 lifted up***
+2021-11-24 19:03:42,728 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-24 19:03:44,117 — state_helper — DEBUG -parse_status — *** Nozzle 1 lifted up***
+2021-11-24 19:03:44,705 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-24 19:03:46,098 — state_helper — DEBUG -parse_status — *** Nozzle 1 lifted up***
+2021-11-24 19:03:46,744 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-24 19:03:58,097 — state_helper — DEBUG -parse_status — ***Transaction ended on Nozzle  1***
+2021-11-24 19:03:58,245 — state_helper — DEBUG -end_transaction_details — start totalizer is: 2663213.0 while current totalizer is: 2664039.0 at 2021-11-24 19:03:58
+2021-11-24 19:03:58,390 — gvr_frontier — DEBUG -get_transaction_details — transaction details is: nozzle: 1 money: 8756.0 volume: 8260.0 ppu: 1060.0 read_at: 2021-11-24 19:03:58
+2021-11-24 19:03:58,428 — services — DEBUG -set_end_transaction_details — transaction end details inserted successfully
+2021-11-24 19:04:25,123 — state_helper — DEBUG -parse_status — *** Nozzle 1 lifted up***
+2021-11-24 19:04:25,711 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-24 19:04:27,101 — state_helper — DEBUG -parse_status — *** Nozzle 1 lifted up***
+2021-11-24 19:04:27,684 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-24 19:04:29,078 — state_helper — DEBUG -parse_status — *** Nozzle 1 lifted up***
+2021-11-24 19:04:29,675 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-24 19:04:31,057 — state_helper — DEBUG -parse_status — *** Nozzle 1 lifted up***
+2021-11-24 19:04:31,645 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-24 19:04:43,301 — state_helper — DEBUG -parse_status — ***Transaction ended on Nozzle  1***
+2021-11-24 19:04:43,448 — state_helper — DEBUG -end_transaction_details — start totalizer is: 2664039.0 while current totalizer is: 2664897.0 at 2021-11-24 19:04:43
+2021-11-24 19:04:43,593 — gvr_frontier — DEBUG -get_transaction_details — transaction details is: nozzle: 1 money: 9181.0 volume: 8580.0 ppu: 1070.0 read_at: 2021-11-24 19:04:43
+2021-11-24 19:04:43,649 — services — DEBUG -set_end_transaction_details — transaction end details inserted successfully
+2021-11-24 19:09:17,759 — state_helper — DEBUG -parse_status — *** Nozzle 1 lifted up***
+2021-11-24 19:09:18,343 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-24 19:09:19,732 — state_helper — DEBUG -parse_status — *** Nozzle 1 lifted up***
+2021-11-24 19:09:20,308 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-24 19:09:21,703 — state_helper — DEBUG -parse_status — *** Nozzle 1 lifted up***
+2021-11-24 19:09:22,284 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-24 19:09:23,673 — state_helper — DEBUG -parse_status — *** Nozzle 1 lifted up***
+2021-11-24 19:09:24,252 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-24 19:09:32,317 — state_helper — DEBUG -parse_status — ***Transaction ended on Nozzle  1***
+2021-11-24 19:09:32,467 — state_helper — DEBUG -end_transaction_details — start totalizer is: 2664897.0 while current totalizer is: 2665189.0 at 2021-11-24 19:09:32
+2021-11-24 19:09:32,612 — gvr_frontier — DEBUG -get_transaction_details — transaction details is: nozzle: 1 money: 3136.0 volume: 2920.0 ppu: 1074.0 read_at: 2021-11-24 19:09:32
+2021-11-24 19:09:32,664 — services — DEBUG -set_end_transaction_details — transaction end details inserted successfully
+2021-11-24 19:04:36,944 — state_helper — DEBUG -parse_status — *** Nozzle 1 lifted up***
+2021-11-24 19:04:37,120 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-24 19:04:43,230 — state_helper — DEBUG -parse_status — ***Transaction ended on Nozzle  1***
+2021-11-24 19:04:43,378 — state_helper — DEBUG -end_transaction_details — start totalizer is: 2665189.0 while current totalizer is: 2665239.0 at 2021-11-24 19:04:43
+2021-11-24 19:04:43,522 — gvr_frontier — DEBUG -get_transaction_details — transaction details is: nozzle: 1 money: 537.0 volume: 500.0 ppu: 1074.0 read_at: 2021-11-24 19:04:43
+2021-11-24 19:04:43,556 — services — DEBUG -set_end_transaction_details — transaction end details inserted successfully
+2021-11-24 19:04:46,021 — state_helper — DEBUG -parse_status — *** Nozzle 1 lifted up***
+2021-11-24 19:04:46,186 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-24 19:04:51,193 — state_helper — DEBUG -parse_status — ***Transaction ended on Nozzle  1***
+2021-11-24 19:04:51,340 — state_helper — DEBUG -end_transaction_details — start totalizer is: 2665239.0 while current totalizer is: 2665246.0 at 2021-11-24 19:04:51
+2021-11-24 19:04:51,484 — gvr_frontier — DEBUG -get_transaction_details — transaction details is: nozzle: 1 money: 75.0 volume: 70.0 ppu: 1074.0 read_at: 2021-11-24 19:04:51
+2021-11-24 19:04:51,518 — services — DEBUG -set_end_transaction_details — transaction end details inserted successfully
+2021-11-24 19:05:42,183 — state_helper — DEBUG -parse_status — *** Nozzle 1 lifted up***
+2021-11-24 19:05:42,349 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-24 19:05:44,716 — state_helper — DEBUG -end_transaction_details — start totalizer is: 2665246.0 while current totalizer is: 2665246.0 at 2021-11-24 19:05:44
+2021-11-24 19:05:44,718 — state_helper — DEBUG -end_transaction_details — no valid transaction at: 2021-11-24 19:05:44
+2021-11-24 19:05:44,721 — state_helper — DEBUG -parse_status — ***Pump went off during transaction on nozzle 1, transaction ended***
+2021-11-24 19:05:44,803 — services — DEBUG -set_end_transaction_details — transaction end details inserted successfully
+2021-11-24 19:06:27,097 — state_helper — DEBUG -parse_status — *** Nozzle 1 lifted up***
+2021-11-24 19:06:27,267 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-24 19:06:31,728 — state_helper — DEBUG -parse_status — ***Transaction ended on Nozzle  1***
+2021-11-24 19:06:31,876 — state_helper — DEBUG -end_transaction_details — start totalizer is: 2665246.0 while current totalizer is: 2665252.0 at 2021-11-24 19:06:31
+2021-11-24 19:06:32,019 — gvr_frontier — DEBUG -get_transaction_details — transaction details is: nozzle: 1 money: 64.0 volume: 60.0 ppu: 1074.0 read_at: 2021-11-24 19:06:32
+2021-11-24 19:06:32,063 — services — DEBUG -set_end_transaction_details — transaction end details inserted successfully
+2021-11-24 19:07:52,267 — state_helper — DEBUG -parse_status — *** Nozzle 1 lifted up***
+2021-11-24 19:07:52,442 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-24 19:07:58,294 — state_helper — DEBUG -parse_status — ***Transaction ended on Nozzle  1***
+2021-11-24 19:07:58,442 — state_helper — DEBUG -end_transaction_details — start totalizer is: 2665252.0 while current totalizer is: 2665260.0 at 2021-11-24 19:07:58
+2021-11-24 19:07:58,586 — gvr_frontier — DEBUG -get_transaction_details — transaction details is: nozzle: 1 money: 86.0 volume: 80.0 ppu: 1074.0 read_at: 2021-11-24 19:07:58
+2021-11-24 19:07:58,646 — services — DEBUG -set_end_transaction_details — transaction end details inserted successfully
+2021-11-24 19:12:58,603 — state_helper — DEBUG -parse_status — *** Nozzle 1 lifted up***
+2021-11-24 19:12:59,179 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-24 19:13:00,565 — state_helper — DEBUG -parse_status — *** Nozzle 1 lifted up***
+2021-11-24 19:13:01,145 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-24 19:13:02,526 — state_helper — DEBUG -parse_status — *** Nozzle 1 lifted up***
+2021-11-24 19:13:03,124 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-24 19:13:04,493 — state_helper — DEBUG -parse_status — *** Nozzle 1 lifted up***
+2021-11-24 19:13:05,069 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-24 19:13:10,061 — state_helper — DEBUG -parse_status — ***Transaction ended on Nozzle  1***
+2021-11-24 19:13:10,213 — state_helper — DEBUG -end_transaction_details — start totalizer is: 2665260.0 while current totalizer is: 2665267.0 at 2021-11-24 19:13:10
+2021-11-24 19:13:10,354 — gvr_frontier — DEBUG -get_transaction_details — transaction details is: nozzle: 1 money: 72.0 volume: 70.0 ppu: 1034.0 read_at: 2021-11-24 19:13:10
+2021-11-24 19:13:10,384 — services — DEBUG -set_end_transaction_details — transaction end details inserted successfully
+2021-11-24 19:14:21,084 — state_helper — DEBUG -parse_status — *** Nozzle 1 lifted up***
+2021-11-24 19:14:21,666 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-24 19:14:23,046 — state_helper — DEBUG -parse_status — *** Nozzle 1 lifted up***
+2021-11-24 19:14:23,618 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-24 19:14:25,007 — state_helper — DEBUG -parse_status — *** Nozzle 1 lifted up***
+2021-11-24 19:14:25,584 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-24 19:14:26,969 — state_helper — DEBUG -parse_status — *** Nozzle 1 lifted up***
+2021-11-24 19:14:27,544 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-24 19:14:33,061 — state_helper — DEBUG -parse_status — ***Transaction ended on Nozzle  1***
+2021-11-24 19:14:33,214 — state_helper — DEBUG -end_transaction_details — start totalizer is: 2665267.0 while current totalizer is: 2665275.0 at 2021-11-24 19:14:33
+2021-11-24 19:14:33,356 — gvr_frontier — DEBUG -get_transaction_details — transaction details is: nozzle: 1 money: 123.0 volume: 80.0 ppu: 1534.0 read_at: 2021-11-24 19:14:33
+2021-11-24 19:14:33,384 — services — DEBUG -set_end_transaction_details — transaction end details inserted successfully
+2021-11-24 19:18:11,378 — state_helper — DEBUG -parse_status — *** Nozzle 1 lifted up***
+2021-11-24 19:18:11,553 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-24 19:18:55,414 — state_helper — DEBUG -parse_status — ***Transaction ended on Nozzle  1***
+2021-11-24 19:18:55,565 — state_helper — DEBUG -end_transaction_details — start totalizer is: 2665275.0 while current totalizer is: 2671012.0 at 2021-11-24 19:18:55
+2021-11-24 19:18:55,709 — gvr_frontier — DEBUG -get_transaction_details — transaction details is: nozzle: 1 money: 88006.0 volume: 57370.0 ppu: 1534.0 read_at: 2021-11-24 19:18:55
+2021-11-24 19:18:55,742 — services — DEBUG -set_end_transaction_details — transaction end details inserted successfully
+2021-11-24 19:18:59,845 — state_helper — DEBUG -parse_status — *** Nozzle 1 lifted up***
+2021-11-24 19:19:00,013 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-24 19:19:28,359 — state_helper — DEBUG -parse_status — ***Transaction ended on Nozzle  1***
+2021-11-24 19:19:28,509 — state_helper — DEBUG -end_transaction_details — start totalizer is: 2671012.0 while current totalizer is: 2674511.0 at 2021-11-24 19:19:28
+2021-11-24 19:19:28,651 — gvr_frontier — DEBUG -get_transaction_details — transaction details is: nozzle: 1 money: 53675.0 volume: 34990.0 ppu: 1534.0 read_at: 2021-11-24 19:19:28
+2021-11-24 19:19:28,730 — services — DEBUG -set_end_transaction_details — transaction end details inserted successfully
+2021-11-24 19:20:34,105 — state_helper — DEBUG -parse_status — *** Nozzle 1 lifted up***
+2021-11-24 19:20:34,688 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-24 19:20:36,067 — state_helper — DEBUG -parse_status — *** Nozzle 1 lifted up***
+2021-11-24 19:20:36,645 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-24 19:20:38,028 — state_helper — DEBUG -parse_status — *** Nozzle 1 lifted up***
+2021-11-24 19:20:38,604 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-24 19:20:39,989 — state_helper — DEBUG -parse_status — *** Nozzle 1 lifted up***
+2021-11-24 19:20:40,567 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully

@@ -1,0 +1,787 @@
+2021-10-14 08:52:20,165 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-10-14 08:52:29,031 — services — DEBUG -set_end_transaction_details — transaction end details inserted successfully
+2021-10-14 09:25:21,693 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-10-14 09:25:32,182 — services — DEBUG -set_end_transaction_details — transaction end details inserted successfully
+2021-10-14 09:38:15,230 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:15,393 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:15,531 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:15,669 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:15,807 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:15,945 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:16,083 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:16,221 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:16,359 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:16,497 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:16,636 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:16,775 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:16,913 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:17,052 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:17,190 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:17,328 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:17,467 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:17,606 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:17,744 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:17,883 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:18,021 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:18,160 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:18,299 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:18,438 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:18,577 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:18,717 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:18,856 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:18,995 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:19,134 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:19,273 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:19,412 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:19,551 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:19,690 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:19,829 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:19,968 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:20,107 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:20,245 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:20,383 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:20,520 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:20,660 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:20,799 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:20,937 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:21,076 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:21,214 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:21,353 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:21,492 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:21,630 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:21,769 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:21,908 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:22,046 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:22,185 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:22,324 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:22,463 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:22,603 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:22,744 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:22,886 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:23,025 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:23,165 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:23,306 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:23,447 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:23,586 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:23,725 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:23,865 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:24,006 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:24,145 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:24,285 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:24,425 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:24,566 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:24,705 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:24,848 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:24,993 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:25,134 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:25,275 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:25,428 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:25,438 — services — ERROR -effect_price_change — no such table: prices
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 443, in effect_price_change
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: prices
+2021-10-14 09:38:25,589 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:25,596 — services — ERROR -effect_price_change — no such table: prices
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 443, in effect_price_change
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: prices
+2021-10-14 09:38:25,748 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:25,887 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:26,026 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:26,166 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:26,305 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:26,445 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:26,584 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:26,724 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:26,864 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:27,003 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:27,143 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:27,282 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:27,422 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:27,562 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:27,701 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:27,841 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:27,980 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:28,120 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:28,260 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:28,400 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:28,540 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:28,678 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:28,816 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:28,954 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:29,093 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:29,232 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:29,371 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:29,510 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:29,650 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:29,788 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:29,926 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:30,064 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:30,203 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:30,341 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:30,480 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:30,618 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:30,756 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:30,894 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:31,032 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:31,172 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:31,312 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:31,451 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:31,590 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:31,729 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:31,868 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:32,008 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:32,147 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:32,286 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:32,425 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:32,565 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:32,704 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:32,842 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:32,981 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:33,120 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:33,259 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:33,399 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:33,538 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:33,676 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:33,816 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:33,954 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:34,093 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:34,232 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:34,371 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:34,511 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:34,649 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:34,789 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:34,936 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:35,076 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:35,214 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:35,352 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:35,490 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:35,628 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:35,765 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 09:38:35,903 — services — ERROR -get_transaction_running_status — no such table: running_transaction
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 780, in get_transaction_running_status
+    cur.execute(sql_query)
+sqlite3.OperationalError: no such table: running_transaction
+2021-10-14 12:36:45,416 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-10-14 12:36:57,568 — services — DEBUG -set_end_transaction_details — transaction end details inserted successfully
+2021-10-14 12:37:09,004 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-10-14 12:37:15,923 — services — DEBUG -set_end_transaction_details — transaction end details inserted successfully
+2021-10-14 12:37:19,369 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-10-14 12:37:34,957 — services — DEBUG -set_end_transaction_details — transaction end details inserted successfully
+2021-10-14 12:37:40,577 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-10-14 12:37:52,730 — services — DEBUG -set_end_transaction_details — transaction end details inserted successfully
+2021-10-14 12:59:01,998 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-10-14 12:59:12,636 — services — DEBUG -set_end_transaction_details — transaction end details inserted successfully
+2021-10-14 12:59:16,199 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-10-14 12:59:32,006 — services — DEBUG -set_end_transaction_details — transaction end details inserted successfully
+2021-10-14 12:59:42,237 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-10-14 12:59:56,816 — services — DEBUG -set_end_transaction_details — transaction end details inserted successfully
+2021-10-14 13:00:01,673 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-10-14 13:00:15,253 — services — DEBUG -set_end_transaction_details — transaction end details inserted successfully
+2021-10-14 13:00:19,243 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-10-14 13:00:39,656 — services — DEBUG -set_end_transaction_details — transaction end details inserted successfully
+2021-10-14 13:00:45,900 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-10-14 13:00:57,210 — services — DEBUG -set_end_transaction_details — transaction end details inserted successfully
+2021-10-14 13:01:03,718 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-10-14 13:01:22,720 — services — DEBUG -set_end_transaction_details — transaction end details inserted successfully
+2021-10-14 13:01:29,464 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-10-14 13:01:41,382 — services — DEBUG -set_end_transaction_details — transaction end details inserted successfully
+2021-10-14 13:01:52,727 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-10-14 13:02:10,130 — services — DEBUG -set_end_transaction_details — transaction end details inserted successfully
+2021-10-14 13:19:23,381 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-10-14 13:19:38,513 — services — DEBUG -set_end_transaction_details — transaction end details inserted successfully

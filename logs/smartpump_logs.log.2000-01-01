@@ -1,0 +1,5 @@
+2021-07-23 15:52:12,500 — __main__ — DEBUG -get_remote_price — **got into remote_price**
+2021-07-23 15:52:17,145 — __main__ — DEBUG -get_remote_price — remote price_details is: None
+2021-07-23 15:52:17,273 — services — DEBUG -connect_db — <sqlite3.Connection object at 0x75699e78>
+2021-07-23 15:52:17,276 — services — DEBUG -connect_db — database connection successful
+2021-07-23 15:52:17,282 — services — DEBUG -get_unuploaded_transactions — no data to upload

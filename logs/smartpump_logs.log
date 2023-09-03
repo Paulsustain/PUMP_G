@@ -1,0 +1,8 @@
+2021-11-29 10:19:38,169 — services — INFO -set_end_transaction_details — transaction end details inserted successfully
+2021-11-29 10:27:42,327 — state_helper — INFO -parse_status — *** Nozzle 1 lifted up* pump status is 7**
+2021-11-29 10:27:42,493 — services — INFO -set_start_transaction_details — transaction start details inserted successfully
+2021-11-29 10:27:43,604 — state_helper — INFO -parse_status — *** Nozzle 1 Authorized to sell at price 159.7***
+2021-11-29 10:27:52,116 — state_helper — INFO -parse_status — ***Transaction ended on Nozzle  1***
+2021-11-29 10:27:52,266 — state_helper — INFO -end_transaction_details — start totalizer is: 2687225.0 while current totalizer is: 2687778.0 at 2021-11-29 10:27:52
+2021-11-29 10:27:52,409 — gvr_frontier — INFO -get_transaction_details — transaction details is: nozzle: 1 money: 8831.0 volume: 5530.0 ppu: 1597.0 read_at: 2021-11-29 10:27:52
+2021-11-29 10:27:52,532 — services — INFO -set_end_transaction_details — transaction end details inserted successfully

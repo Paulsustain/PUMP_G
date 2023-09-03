@@ -1,0 +1,59 @@
+2021-11-25 13:12:01,323 — state_helper — INFO -parse_status — *** Nozzle 1 lifted up***
+2021-11-25 13:12:01,909 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-25 13:13:00,800 — state_helper — INFO -parse_status — ***Transaction ended on Nozzle  1***
+2021-11-25 13:13:00,947 — state_helper — INFO -end_transaction_details — start totalizer is: 2676236.0 while current totalizer is: 2676827.0 at 2021-11-25 13:13:00
+2021-11-25 13:13:01,090 — gvr_frontier — INFO -get_transaction_details — transaction details is: nozzle: 1 money: 9438.0 volume: 5910.0 ppu: 1597.0 read_at: 2021-11-25 13:13:01
+2021-11-25 13:13:01,140 — services — DEBUG -set_end_transaction_details — transaction end details inserted successfully
+2021-11-25 13:21:05,833 — state_helper — INFO -parse_status — *** Nozzle 1 lifted up***
+2021-11-25 13:21:06,004 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-25 13:21:07,113 — state_helper — INFO -parse_status — *** Nozzle 1 Authorized to sell at price159.7***
+2021-11-25 13:21:13,990 — state_helper — INFO -parse_status — ***Transaction ended on Nozzle  1***
+2021-11-25 13:21:14,140 — state_helper — INFO -end_transaction_details — start totalizer is: 2676827.0 while current totalizer is: 2677103.0 at 2021-11-25 13:21:14
+2021-11-25 13:21:14,285 — gvr_frontier — INFO -get_transaction_details — transaction details is: nozzle: 1 money: 4408.0 volume: 2760.0 ppu: 1597.0 read_at: 2021-11-25 13:21:14
+2021-11-25 13:21:14,316 — services — DEBUG -set_end_transaction_details — transaction end details inserted successfully
+2021-11-25 13:23:06,562 — state_helper — INFO -parse_status — *** Nozzle 1 lifted up***
+2021-11-25 13:23:06,737 — services — DEBUG -set_start_transaction_details — transaction start details inserted successfully
+2021-11-25 13:23:07,848 — state_helper — INFO -parse_status — *** Nozzle 1 Authorized to sell at price 159.7***
+2021-11-25 13:23:25,148 — state_helper — INFO -parse_status — ***Transaction ended on Nozzle  1***
+2021-11-25 13:23:25,295 — state_helper — INFO -end_transaction_details — start totalizer is: 2677103.0 while current totalizer is: 2679014.0 at 2021-11-25 13:23:25
+2021-11-25 13:23:25,436 — gvr_frontier — INFO -get_transaction_details — transaction details is: nozzle: 1 money: 30519.0 volume: 19110.0 ppu: 1597.0 read_at: 2021-11-25 13:23:25
+2021-11-25 13:23:25,464 — services — DEBUG -set_end_transaction_details — transaction end details inserted successfully
+2021-11-25 13:33:55,810 — __main__ — ERROR -get_start_totalizer — list index out of range
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 800, in get_start_totalizer
+    start_totalizer=cur.fetchall()[0][0]
+IndexError: list index out of range
+2021-11-25 13:35:04,591 — __main__ — ERROR -get_start_totalizer — list index out of range
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 800, in get_start_totalizer
+    start_totalizer=cur.fetchall()[0][0]
+IndexError: list index out of range
+2021-11-25 13:35:08,629 — __main__ — ERROR -get_start_totalizer — list index out of range
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 800, in get_start_totalizer
+    start_totalizer=cur.fetchall()[0][0]
+IndexError: list index out of range
+2021-11-25 13:35:17,723 — __main__ — ERROR -get_start_totalizer — list index out of range
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 800, in get_start_totalizer
+    start_totalizer=cur.fetchall()[0][0]
+IndexError: list index out of range
+2021-11-25 13:36:13,651 — __main__ — ERROR -get_start_totalizer — list index out of range
+Traceback (most recent call last):
+  File "/home/pi/smartpump/services/fcc/services.py", line 800, in get_start_totalizer
+    start_totalizer=cur.fetchall()[0][0]
+IndexError: list index out of range
+2021-11-25 13:37:19,023 — state_helper — INFO -parse_status — *** Nozzle 1 lifted up***
+2021-11-25 13:37:19,190 — services — INFO -set_start_transaction_details — transaction start details inserted successfully
+2021-11-25 13:37:20,301 — state_helper — INFO -parse_status — *** Nozzle 1 Authorized to sell at price 159.7***
+2021-11-25 13:37:31,318 — state_helper — INFO -parse_status — ***Transaction ended on Nozzle  1***
+2021-11-25 13:37:31,472 — state_helper — INFO -end_transaction_details — start totalizer is: 2679014.0 while current totalizer is: 2679966.0 at 2021-11-25 13:37:31
+2021-11-25 13:37:31,615 — gvr_frontier — INFO -get_transaction_details — transaction details is: nozzle: 1 money: 15203.0 volume: 9520.0 ppu: 1597.0 read_at: 2021-11-25 13:37:31
+2021-11-25 13:37:31,648 — services — INFO -set_end_transaction_details — transaction end details inserted successfully
+2021-11-25 13:52:48,881 — state_helper — INFO -parse_status — *** Nozzle 1 lifted up* pump status is 7**
+2021-11-25 13:52:49,058 — services — INFO -set_start_transaction_details — transaction start details inserted successfully
+2021-11-25 13:52:50,164 — state_helper — INFO -parse_status — *** Nozzle 1 Authorized to sell at price 159.7***
+2021-11-25 13:52:59,770 — state_helper — INFO -parse_status — ***Transaction ended on Nozzle  1***
+2021-11-25 13:52:59,916 — state_helper — INFO -end_transaction_details — start totalizer is: 2679966.0 while current totalizer is: 2680682.0 at 2021-11-25 13:52:59
+2021-11-25 13:53:00,058 — gvr_frontier — INFO -get_transaction_details — transaction details is: nozzle: 1 money: 11435.0 volume: 7160.0 ppu: 1597.0 read_at: 2021-11-25 13:53:00
+2021-11-25 13:53:00,130 — services — INFO -set_end_transaction_details — transaction end details inserted successfully
